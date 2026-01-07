@@ -331,20 +331,11 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📧 Contact
 
 **Author**: [i3xpl0it](https://github.com/i3xpl0it)  
-**LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)  
-**Medium**: [Read my articles](https://medium.com/@yourhandle)  
+**LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohiththiruvalluru/)  
+**Medium**: [Read my articles](https://medium.com/@i3xpl0it_58074)  
 
----
 
 ## 🌟 Show Your Support
 
 If this project helped you, please ⭐ star this repository and share it with your network!
 
-**LinkedIn Hook**: 
-> "Slashed EHR data pipeline costs by 73% using Snowflake's dual-warehouse architecture—XL for snapshots, XS for increments, millisecond queries for clinicians ⚡💰"
-
----
-
-**Built with ❤️ for Healthcare Data Engineers**
-
----
