@@ -1,0 +1,17 @@
+# Snowflake Dual-Warehouse Clinical Data Pipeline
+# Python Dependencies
+
+# Snowflake connector
+snowflake-connector-python==3.6.0
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Logging and utilities
+python-dotenv==1.0.0
+pyarrow==14.0.1
+
+# Optional: For advanced features
+# sqlalchemy==2.0.23
+# snowflake-sqlalchemy==1.5.1
